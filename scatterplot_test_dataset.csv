@@ -1,0 +1,21 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder
+4,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea
+5,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea
+244,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+245,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+246,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+247,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+248,Male,44,Engineer,6.8,7,45,7,Overweight,130/85,78,5000,Insomnia
+249,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,None
+250,Male,44,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,None
+251,Female,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia
+305,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+306,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+307,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia
+308,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia
+309,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia
+310,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia
+311,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia
+312,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia
+313,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+316,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,Insomnia
